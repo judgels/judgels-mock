@@ -1,0 +1,19 @@
+{
+  "name": "judgels-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judgels/judgels-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judgels/judgels-mock/issues"
+  },
+  "homepage": "https://github.com/judgels/judgels-mock#readme"
+}
